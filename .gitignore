@@ -1,0 +1,6 @@
+target/**/*
+.settings/**/*
+.externalToolBuilders/**/*
+.DS_Store
+.project
+.classpath
