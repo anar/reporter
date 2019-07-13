@@ -1,5 +1,5 @@
 # Spam Reporting
-Simple, standalone web application challenge for spam protection team. It uses embedded in-memory NoSQL database, embedded Jetty server, Jersey and Vuejs. 
+My approach to a challenge about creating a simple (coding less than 3 hours), standalone web application for spam protection team. It uses embedded in-memory NoSQL database, embedded Jetty server, Jersey and Vuejs. 
 
 ## Building & Running
 
