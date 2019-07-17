@@ -3,7 +3,7 @@ My approach to a challenge about creating a simple (coding less than 3 hours), s
 
 ## Building & Running
 
-Run these commands from /client folder to build the front-end:
+Run these commands from /frontend folder to build the front-end:
 
 `yarn install`
 
