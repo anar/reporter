@@ -1,6 +1,6 @@
 ## McKinsey Use Case with VueJS, NoSQL, Jetty, Jersey, JAR
 
-A very simple (coding less than 3 hours), standalone web application for spam protection team. It showcases embedded NoSQL database, embedded Jetty server, Jersey REST and VueJS.
+A very simple (coded in less than 3 hours), standalone web application for spam protection team. It showcases embedded NoSQL database, embedded Jetty server, Jersey REST and VueJS.
 
 ## Building & Running
 
