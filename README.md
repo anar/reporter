@@ -1,5 +1,5 @@
-# VueJS + NoSQL + Jetty + Jersey + JAR
-My approach to a challenge about creating a very simple (coding less than 3 hours), standalone web application for spam protection team. It showcases embedded NoSQL database, embedded Jetty server, Jersey REST and VueJS.
+McKinsey Use Case with VueJS, NoSQL, Jetty, Jersey, JAR
+A very simple (coding less than 3 hours), standalone web application for spam protection team. It showcases embedded NoSQL database, embedded Jetty server, Jersey REST and VueJS.
 
 ## Building & Running
 
